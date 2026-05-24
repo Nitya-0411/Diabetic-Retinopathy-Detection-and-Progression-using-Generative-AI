@@ -225,18 +225,6 @@ Possible improvements:
 
 ---
 
-## Contributors
-
-- K Anandi Raghavi
-- T Maha Lakshmi
-- V Nitya Vaishnavi
-
-Guide:
-
-Mrs. Y Sravani Devi
-
----
-
 ## Note
 
 Developed as an academic project.
